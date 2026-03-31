@@ -1,4 +1,4 @@
-# 🍽️ Saveur Fine Dining — Full-Stack Restaurant Website
+# 🍽️ khn chn restaurant — Full-Stack Restaurant Website
 
 A complete full-stack restaurant website with admin panel built with the MERN stack.
 
